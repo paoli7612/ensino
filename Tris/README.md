@@ -2,7 +2,7 @@
 
 Conserviamo aggiornati i codici e qualche riga di spiegazione per ogni lezione del corso Epsilon. Premettiamo che non è la versione del codice migliore che possiamo fare ma ci serve unicamente a crescere e imparare. Siamo aperti a critiche costruttive.
 
-## 1
+## Lezione 1
 
 <img src="img/01.png">
 

@@ -1,9 +1,8 @@
-# Epsilon 2022-2023
+# Tris
 
 Conserviamo aggiornati i codici e qualche riga di spiegazione per ogni lezione del corso Epsilon. Premettiamo che non è la versione del codice migliore che possiamo fare ma ci serve unicamente a crescere e imparare. Siamo aperti a critiche costruttive.
 
-## Tris
-### 03.11.2022
+## 1
 
 Dichiariamo l'esistenza di una funzione chiamata "stampa" che prende un array di 9 **char** e va a stampare a monitor la tabella del tris con quei valori (1, 2...8)
 ```c++

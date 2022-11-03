@@ -4,6 +4,8 @@ Conserviamo aggiornati i codici e qualche riga di spiegazione per ogni lezione d
 
 ## 1
 
+<img src="img/01.png">
+
 Dichiariamo l'esistenza di una funzione chiamata "stampa" che prende un array di 9 **char** e va a stampare a monitor la tabella del tris con quei valori (1, 2...8)
 ```c++
 int stampa (char celle[9]){
